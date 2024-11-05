@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marjyang
-- 🌱 I’m currently studying Interactive Media Arts at NYU
+
 
 <!---
 marjyang/marjyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
