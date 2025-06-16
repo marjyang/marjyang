@@ -1,9 +1,10 @@
-👋 Hi, I’m Marjorie!
+## 👋 Hi, I’m Marjorie!
 
-I’m an aspiring product manager with a background spanning strategy, development, and design. I’m currently pursuing an MS in Technology Innovation at the University of Washington, where I focus on building connected hardware/software products.
+I’m an aspiring product manager with a background in strategy, design, and development. I’m currently pursuing a master’s in Technology Innovation at the University of Washington, where I’m building on my technical foundations while exploring how to bring ideas to life through thoughtful products.
 
-Here you’ll find a mix of past and ongoing projects—from creative side projects to more recent technical builds from my program. I’m always exploring, prototyping, and learning.
+This GitHub includes a mix of projects—from web apps and data visualizations to more recent hardware/software builds from my program. I use this space to experiment, learn, and push my technical range as a PM.
 
+[--> LinkedIn](https://www.linkedin.com/in/marjorie-yang/)
 
 <!---
 marjyang/marjyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
